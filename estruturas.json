@@ -1,0 +1,27 @@
+[
+	{	
+		"id": 0,
+		"nome": "Gastos essenciais",
+		"quantidade": 90
+	},
+
+	{	
+		"id": 1,
+		"nome": "Educação",
+		"quantidade": 90
+	},
+
+	{	
+		"id": 2,
+		"nome": "Saúde",
+		"quantidade": 90
+
+	},
+
+	{	
+		"id": 3,
+		"nome": "Lazer",
+		"quantidade": 90
+
+	}
+]
